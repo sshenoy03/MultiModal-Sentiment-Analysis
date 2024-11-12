@@ -10,11 +10,9 @@ This project focuses on building a multimodal sentiment analysis model that leve
 - [Dataset](#dataset)
 - [Methodology](#methodology)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Results](#results)
 - [Future Scope](#future-scope)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ---
 
