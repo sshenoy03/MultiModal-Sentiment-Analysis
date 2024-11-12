@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+data
+model.std
+model_best.pt
+model_best_enhanced.pt
+optim.std
